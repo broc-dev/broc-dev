@@ -1,5 +1,5 @@
-# Broc Smith
+# Welcome
 
-I'm working on https://trident.game
+I'm Broc. I'm co-founder of https://trident.game.
 
-broc@brocsmith.com
+You can reach me at broc@brocsmith.com
