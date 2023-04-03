@@ -1,7 +1,3 @@
-# Welcome
+broc@brocsmith.com
 
-I'm Broc. I'm co-founder of https://trident.game.
-
-You can reach me at broc@brocsmith.com
-
-‹Not available for hire›
+‹ Open for work ›
